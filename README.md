@@ -1,5 +1,11 @@
 ## Hi There 👋
 
+Hi 😊 I'm **MinKyeong Choi** 
+
+Im an individual with a keen eye for detail, driven by a passion for innovation and excellence !! As I aspire to advance my burgeoning tech career as a Software Developer, I intend to leverage my strong troubleshooting skills to engineer responsive and efficient solutions 💪🏻 I look forward to thriving in collaborative environments, where I can work alongside like-minded peers to push the boundaries of what's possible in software development 🔥 Thank you for visiting my profile 🖤
+
+---
+
 ### About Me 🙋‍♀️   
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
